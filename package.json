@@ -1,12 +1,12 @@
 {
-  "name": "youtube-2020-feb-nextjs",
+  "name": "youtube-2020-march-nextjs-part3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "mock-server": "json-server --watch ./db.json -p 4001 -d 3000"
+    "mock-server": "json-server --watch ./db.json -p 4001 -d 1500"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
