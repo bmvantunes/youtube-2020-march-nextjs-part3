@@ -1,3 +1,4 @@
+import fetch from 'isomorphic-unfetch';
 import Link from 'next/link';
 
 export default function List({ownersList}) {
